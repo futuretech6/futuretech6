@@ -1,7 +1,7 @@
 ## Hey there :wave:
 
-* :open_book: Educ: Undergraduate, Computer Science, Zhejiang University
-* :hammer_and_wrench: Work: System Security, Smart Contract in Rust
+* :open_book: Edu: Undergraduate, Computer Science, Zhejiang University
+* :hammer_and_wrench: Focus: System Security, Smart Contract in Rust
 * :star: Like: :tennis:, :bicyclist: and :video_game:
 
 ![FUTURETECH6's GitHub stats](https://github-readme-stats-futuretech6.vercel.app/api?username=FUTURETECH6&count_private=true&show_icons=true&theme=ayu-mirage)
