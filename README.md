@@ -1,9 +1,31 @@
 ## Hey there :wave:
 
+![wakatime](https://wakatime.com/badge/user/5a7abdae-6e7d-4bd8-8663-e76179b44ecb.svg?style=flat)
+
 * :open_book: Edu: Undergraduate, Computer Science, Zhejiang University
-* :hammer_and_wrench: Focus: System Security, Blockchain & Smart Contract
+* :hammer_and_wrench: Focus: Operating System, Blockchain & Smart Contract
 * :star: Like: :tennis:, :bicyclist: and :video_game:
+
+### Languages
+
+![C](https://img.shields.io/badge/C-1f2430?style=flat&logo=C&logoColor=73d0ff)
+![C++](https://img.shields.io/badge/C++-1f2430?style=flat&logo=C%2B%2B&logoColor=73d0ff)
+![Python](https://img.shields.io/badge/Python-1f2430?style=flat&logo=Python&logoColor=73d0ff)
+![Rust](https://img.shields.io/badge/Rust-1f2430?style=flat&logo=Rust&logoColor=73d0ff)
+![Go](https://img.shields.io/badge/Go-1f2430?style=flat&logo=Go&logoColor=73d0ff)
+![Solidity](https://img.shields.io/badge/Solidity-1f2430?style=flat&logo=Solidity&logoColor=73d0ff)
+
+![Top Langs](https://github-readme-stats-futuretech6.vercel.app/api/top-langs/?username=FUTURETECH6&count_private=true&layout=compact&langs_count=10&theme=ayu-mirage&exclude_repo=github-readme-stats,CA_LAB&hide=jupyter%20notebook,html,tsql,css,scss)
+
+### Github status
 
 ![FUTURETECH6's GitHub stats](https://github-readme-stats-futuretech6.vercel.app/api?username=FUTURETECH6&count_private=true&include_all_commits=true&show_icons=true&theme=ayu-mirage)
 
-![Top Langs](https://github-readme-stats-futuretech6.vercel.app/api/top-langs/?username=FUTURETECH6&count_private=true&layout=compact&langs_count=10&theme=ayu-mirage&exclude_repo=github-readme-stats,CA_LAB&hide=jupyter%20notebook,html,tsql,css,scss)
+<!--
+"ayu-mirage": {
+    title_color: "f4cd7c",
+    icon_color: "73d0ff",
+    text_color: "c7c8c2",
+    bg_color: "1f2430",
+}
+-->
