@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats-futuretech6.vercel.app/api/top-langs/?username=FUTURETECH6&layout=compact&theme=ayu-mirage&langs_count=10&count_private=true&exclude_repo=github-readme-stats,CA_LAB&hide=jupyter%20notebook,html,tsql,css,scss)
 
-### Github status
+### Github stats
 
 ![GitHub stats](https://github-readme-stats-futuretech6.vercel.app/api?username=FUTURETECH6&theme=ayu-mirage&show_icons=true&count_private=true&include_all_commits=true)
 
