@@ -1,6 +1,6 @@
 ## Hey there :wave:
 
-![wakatime](https://wakatime.com/badge/user/5a7abdae-6e7d-4bd8-8663-e76179b44ecb.svg?style=flat)
+[![wakatime](https://wakatime.com/badge/user/5a7abdae-6e7d-4bd8-8663-e76179b44ecb.svg?style=flat)](https://wakatime.com/@5a7abdae-6e7d-4bd8-8663-e76179b44ecb)
 
 * :open_book: Edu: Undergraduate, Computer Science, Zhejiang University
 * :hammer_and_wrench: Focus: Operating System, Blockchain & Smart Contract
@@ -23,7 +23,7 @@
 
 ### Coding
 
-[![Waka time](https://github-readme-stats.vercel.app/api/wakatime?username=FUTURETECH6&layout=compact&theme=ayu-mirage&hide_progress=false)](https://wakatime.com/@FUTURETECH6)
+[![Waka time](https://github-readme-stats.vercel.app/api/wakatime?username=FUTURETECH6&layout=compact&theme=ayu-mirage&hide_progress=false&range=last_7_days)](https://wakatime.com/@FUTURETECH6)
 
 <!--
 "ayu-mirage": {
