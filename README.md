@@ -2,9 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/5a7abdae-6e7d-4bd8-8663-e76179b44ecb.svg?style=flat)](https://wakatime.com/@5a7abdae-6e7d-4bd8-8663-e76179b44ecb)
 
-* :open_book: Edu: Undergraduate, Computer Science, Zhejiang University
-* :hammer_and_wrench: Focus: Operating System, Blockchain & Smart Contract
-* :star: Like: :tennis:, :bicyclist: and :video_game:
+* :open\_book: Edu: Undergraduate, Computer Science, Zhejiang University
+* :hammer\_and\_wrench: Focus: Operating System, Blockchain & Smart Contract
+* :star: Like: :tennis:, :bicyclist: and :video\_game:
 
 ### Languages
 
