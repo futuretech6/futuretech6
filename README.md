@@ -29,4 +29,4 @@
 
 ### LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/futuretech6?theme=nord&font=Noto%20Sans&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/futuretech6?theme=nord&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/futuretech6)
