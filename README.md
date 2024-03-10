@@ -27,6 +27,8 @@
 }
 -->
 
-### LeetCode
+### Misc
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/futuretech6?theme=nord&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/futuretech6)
+
+<!-- ![Steam Card](https://card.yuy1n.io/card/76561198207763163/dark,en,badge,group,text-c7c8c2,bg-1f2430,badges,games,reviews) -->
