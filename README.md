@@ -6,6 +6,9 @@
 - :hammer_and_wrench: Focus: Operating System, Blockchain & Smart Contract
 - :star: Like: :badminton:, :tennis:, :bicyclist:, :small_airplane: and :video_game: (:peace_symbol::gear:, :red_circle::dragon_face:)
 
+![metrics](github-metrics.svg)
+
+<!--
 ### Languages
 
 ![Top Langs](https://github-readme-stats-futuretech6.vercel.app/api/top-langs/?username=futuretech6&layout=compact&theme=ayu-mirage&langs_count=10&count_private=true&exclude_repo=github-readme-stats,CA_LAB&hide=jupyter%20notebook,html,tsql,css,scss)
@@ -17,6 +20,7 @@
 ### Coding
 
 [![Waka time](https://github-readme-stats.vercel.app/api/wakatime?username=futuretech6&layout=compact&theme=ayu-mirage&hide_progress=false&range=last_7_days)](https://wakatime.com/@futuretech6)
+-->
 
 <!--
 "ayu-mirage": {
@@ -27,8 +31,9 @@
 }
 -->
 
+<!--
 ### Misc
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/futuretech6?theme=nord&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/futuretech6)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/futuretech6?theme=nord&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/futuretech6) -->
 
 <!-- ![Steam Card](https://card.yuy1n.io/card/76561198207763163/dark,en,badge,group,text-c7c8c2,bg-1f2430,badges,games,reviews) -->
