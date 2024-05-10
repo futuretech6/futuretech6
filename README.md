@@ -6,7 +6,7 @@
 - :hammer_and_wrench: Focus: Operating System, Blockchain & Smart Contract
 - :star: Like: :badminton:, :tennis:, :bicyclist:, :small_airplane: and :video_game: (:peace_symbol::gear:, :red_circle::dragon_face:)
 
-![metrics](github-metrics.svg)
+[![metrics](github-metrics.svg)](https://github.com/futuretech6)
 
 <!--
 ### Languages
