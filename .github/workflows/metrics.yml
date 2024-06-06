@@ -14,15 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -73,6 +64,19 @@ jobs:
 
           plugin_traffic: yes
 
+          # plugin_wakatime: yes
+          # plugin_wakatime_days: 7
+          # plugin_wakatime_limit: 5
+          # plugin_wakatime_repositories_visibility: all
+          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          # plugin_wakatime_url: https://wakatime.com
+          # plugin_wakatime_user: futuretech6
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/wakatime.svg
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
