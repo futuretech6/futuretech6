@@ -12,21 +12,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: base
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
+          filename: metrics/base.svg
           user: futuretech6
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           repositories_forks: no
-
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
 
           plugin_followup: yes
           plugin_followup_archived: yes
@@ -56,23 +51,33 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
+          plugin_traffic: yes
+
+      - name: leetcode
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/leetcode.svg
+          base: ""
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
           plugin_leetcode_user: futuretech6c
 
-          plugin_traffic: yes
+      - name: 16personalities
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/16personalities.svg
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
 
-          # plugin_wakatime: yes
-          # plugin_wakatime_days: 7
-          # plugin_wakatime_limit: 5
-          # plugin_wakatime_repositories_visibility: all
-          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          # plugin_wakatime_url: https://wakatime.com
-          # plugin_wakatime_user: futuretech6
-
-      - uses: lowlighter/metrics@latest
+      - name: wakatime
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/wakatime.svg
