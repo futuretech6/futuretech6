@@ -1,14 +1,20 @@
-## Hey there :wave:
+# Hey there :wave:
 
-[![wakatime](https://wakatime.com/badge/user/5a7abdae-6e7d-4bd8-8663-e76179b44ecb.svg?style=flat)](https://wakatime.com/@5a7abdae-6e7d-4bd8-8663-e76179b44ecb)
+[![wakatime](https://wakatime.com/badge/user/5a7abdae-6e7d-4bd8-8663-e76179b44ecb.svg?style=flat)](https://wakatime.com/@futuretech6)
 
 - :open_book: Edu: MEng, Computer Science, Zhejiang University
 - :hammer_and_wrench: Focus: Operating System, Blockchain & Smart Contract
 - :star: Like: :badminton:, :tennis:, :bicyclist:, :small_airplane: and :video_game: (:peace_symbol::gear:, :red_circle::dragon_face:)
 
+**My Metrics**
+
 [![metrics](metrics/base.svg)](https://github.com/futuretech6)
 
+**Coding Time**
+
 [![wakatime](metrics/wakatime.svg)](https://wakatime.com/@futuretech6)
+
+**Other Stats**
 
 [![leetcode](metrics/leetcode.svg)](https://leetcode.com/futuretech6c)
 
