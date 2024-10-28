@@ -96,7 +96,7 @@ jobs:
           base: ""
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
+          plugin_16personalities_sections: personality, profile, traits
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
 
   github-metrics-steam:
