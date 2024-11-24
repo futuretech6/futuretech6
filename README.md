@@ -2,11 +2,16 @@
 
 [![wakatime](https://wakatime.com/badge/user/5a7abdae-6e7d-4bd8-8663-e76179b44ecb.svg?style=flat)](https://wakatime.com/@futuretech6)
 
-- :open_book: Edu: MEng, Computer Science, Zhejiang University
-- :hammer_and_wrench: Focus: Operating System, Blockchain & Smart Contract
-- :star: Like: :badminton:, :tennis:, :bicyclist:, :small_airplane: and :video_game: (:peace_symbol::gear:, :red_circle::dragon_face:)
+**Intro**
 
-**My Metrics**
+- :open_book: Education<br />
+  {Bachelor, Mixed Class (Chu Kochen Honors College) & Computer Science => Master, Computer Science} @ Zhejiang University  
+- :hammer_and_wrench: Research Focus<br />
+  High-Frequency Trading, Quantitative Finance, Operating System, Blockchain & Smart Contract  
+- :star: Hobbies<br />
+  :badminton:, :tennis:, :bicyclist:, :small_airplane: and :video_game: (:peace_symbol::gear:, :red_circle::dragon_face:, :chess_pawn:)
+
+**My GitHub Metrics**
 
 [![metrics](metrics/base.svg)](https://github.com/futuretech6)
 
