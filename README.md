@@ -8,7 +8,7 @@
   {Bachelor, Mixed Class (Chu Kochen Honors College) & Computer Science => Master, Computer Science} @ Zhejiang University  
 - :hammer_and_wrench: Research Focus<br />
   High-Frequency Trading, Quantitative Finance, Operating System, Blockchain & Smart Contract  
-- :star: Hobbies<br />
+- :balloon: Hobbies<br />
   :badminton:, :tennis:, :bicyclist:, :small_airplane: and :video_game: (:peace_symbol::gear:, :red_circle::dragon_face:, :chess_pawn:)
 
 **My GitHub Metrics**
