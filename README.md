@@ -27,4 +27,4 @@
 
 **Steam Card**
 
-![Steam Card](https://card.yuy1n.io/card/76561198207763163/dark,en,badge,group,bg-game,badges,games,reviews)
+[![Steam Card](https://card.yuy1n.io/card/76561198207763163/dark,en,badge,group,bg-game,badges,games,reviews)](https://steamcommunity.com/id/futuretech6/)
