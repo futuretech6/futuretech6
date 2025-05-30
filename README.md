@@ -25,6 +25,8 @@
 
 [![16personalities](metrics/16personalities.svg)](https://www.16personalities.com/profiles/1b4a90be35258)
 
-**Steam Card**
+[![steam](metrics/steam.svg)](https://steamcommunity.com/id/futuretech6)
 
-[![Steam Card](https://card.yuy1n.io/card/76561198207763163/dark,en,badge,group,bg-game,badges,games,reviews)](https://steamcommunity.com/id/futuretech6/)
+<!-- **Steam Card**
+
+[![Steam Card](https://card.yuy1n.io/card/76561198207763163/dark,en,badge,group,bg-game,badges,games,reviews)](https://steamcommunity.com/id/futuretech6/) -->
