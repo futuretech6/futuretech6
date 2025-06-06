@@ -109,11 +109,11 @@ jobs:
           filename: metrics/steam.svg
           base: ""
           plugin_steam: yes
-          plugin_steam_achievements_limit: 5
+          plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 5
           plugin_steam_playtime_threshold: 0 # most play games require playtime > threshold
-          plugin_steam_recent_games_limit: 2
+          # plugin_steam_recent_games_limit: 2
           plugin_steam_games_ignored: 431960
-          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_sections: player, most-played
           plugin_steam_user: ${{ secrets.STEAM_UID }}
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
