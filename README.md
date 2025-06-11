@@ -11,6 +11,10 @@
 - :balloon: Hobbies<br />
   :badminton:, :tennis:, :bicyclist:, :small_airplane: and :video_game: (:peace_symbol::gear:, :red_circle::dragon_face:, :chess_pawn:)
 
+**My GPG Key**
+
+https://github.com/futuretech6/futuretech6/blob/f74846472098757bc72d8bea8e13953ab52a60af/assets/futuretech6.gpg?plain=1#L1-L41
+
 **My GitHub Metrics**
 
 [![metrics](metrics/base.svg)](https://github.com/futuretech6)
