@@ -5,9 +5,9 @@
 **Intro**
 
 - :open_book: Education<br />
-  {Bachelor, Mixed Class (Chu Kochen Honors College) & Computer Science => Master, Computer Science} @ Zhejiang University  
+  {Bachelor, Mixed Class (Chu Kochen Honors College) & Computer Science => Master, Computer Science} @ Zhejiang University
 - :hammer_and_wrench: Research Focus<br />
-  High-Frequency Trading, Quantitative Finance, Operating System, Blockchain & Smart Contract  
+  High-Frequency Trading, Quantitative Finance, Operating System, Blockchain & Smart Contract
 - :balloon: Hobbies<br />
   :badminton:, :tennis:, :bicyclist:, :small_airplane: and :video_game: (:peace_symbol::gear:, :red_circle::dragon_face:, :chess_pawn:)
 
@@ -25,11 +25,29 @@ https://github.com/futuretech6/futuretech6/blob/f74846472098757bc72d8bea8e13953a
 
 **Other Stats**
 
+<details open>
+  
+<summary>LeetCode Stats</summary>
+
 [![leetcode](metrics/leetcode.svg)](https://leetcode.com/futuretech6c)
+
+</details>
+
+<details>
+  
+<summary>16Personalities</summary>
 
 [![16personalities](metrics/16personalities.svg)](https://www.16personalities.com/profiles/1b4a90be35258)
 
+</details>
+
+<details>
+  
+<summary>Steam</summary>
+
 [![steam](metrics/steam.svg)](https://steamcommunity.com/id/futuretech6)
+
+</details>
 
 <!-- **Steam Card**
 
