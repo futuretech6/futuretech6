@@ -153,5 +153,5 @@ jobs:
           plugin_music_time_range: short # short: 4 weeks; medium: 6 months; long: several years
           plugin_music_top_type: tracks
           plugin_music_limit: 10
-          plugin_music_played_at: yes
+          # plugin_music_played_at: yes # invalid config for plugin_music_mode: top
 
