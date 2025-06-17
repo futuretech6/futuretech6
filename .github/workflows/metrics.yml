@@ -152,6 +152,7 @@ jobs:
           plugin_music_mode: top
           plugin_music_time_range: short # short: 4 weeks; medium: 6 months; long: several years
           plugin_music_top_type: tracks
+          plugin_music_limit: 10
       - name: Spotify - Top tracks
         uses: lowlighter/metrics@latest
         with:
@@ -165,6 +166,7 @@ jobs:
           plugin_music_mode: top
           plugin_music_time_range: medium # short: 4 weeks; medium: 6 months; long: several years
           plugin_music_top_type: tracks
+          plugin_music_limit: 10
       - name: Spotify - Top tracks
         uses: lowlighter/metrics@latest
         with:
@@ -178,3 +180,4 @@ jobs:
           plugin_music_mode: top
           plugin_music_time_range: long # short: 4 weeks; medium: 6 months; long: several years
           plugin_music_top_type: tracks
+          plugin_music_limit: 10
