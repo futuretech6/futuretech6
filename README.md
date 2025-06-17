@@ -35,6 +35,14 @@ https://github.com/futuretech6/futuretech6/blob/f74846472098757bc72d8bea8e13953a
 
 <details>
   
+<summary>Most Played Tracks</summary>
+
+[![leetcode](metrics/spotify-top-tracks-medium.svg)](https://open.spotify.com/user/31lyd4v2s5hkg7udyhpl6pqlt6re)
+
+</details>
+
+<details>
+  
 <summary>16Personalities</summary>
 
 [![16personalities](metrics/16personalities.svg)](https://www.16personalities.com/profiles/1b4a90be35258)
