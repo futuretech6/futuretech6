@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="721" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="817" class="">
     <defs>
         <style/>
     </defs>
@@ -255,7 +255,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 146 achievements unlocked
+                                            19 / 146 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwL/xAAxEAABBAECBAMECwAAAAAAAAABAgMEBREABhMhMUESFWEiI1GhFCQyNVZidJOzwdL/xAAZAQABBQAAAAAAAAAAAAAAAAACAAQFBgf/xAAgEQABAwUAAwEAAAAAAAAAAAABAhEhAAMEEjEUQWGB/9oADAMBAAIRAxEAPwBKTX1tPVOO1bEx6W0t1a3nXE4w4pAACVAYwn56w82rfw7A/ef/AN6Nm1U6w27TPQYrshEeIou8NPiKAZDgBI641ztqZbbYKrLyzj1zyAh1EpnLLyScpGT3Ck5GO40wrdnQUKUDstyG3I9lh2I5RV61FpUQRNoawSJLAkGOH5HjZST7IX7fIkc8fA89Ag19lT2rjVWxDeiNIdQtl1xWcuJQQQpRGMK+Wk9pPk2ljInTnS7JfWXHFnuT/WmNH9ybi/SN/wA7elR+Oq1aSpajs6XktKhHeepq82RGjqpoU2xnzYtdGglLyIn2nCqQ9jPPt4T2PXVDMgbU3fARR7dlWcJacrQ3hS2iUjqoLV8B2I1AU18hjb0ONFto0CQ2Ah0SGFOZ8Lji04AQoY94PUEaYt7slNzWH0bnq08JOPCmEtJJKcKOQ1kZ66NKgzGq5lYOUu+u7bJBBJT1vjjQgz95U6dj3D0V+VWNJsojb3BS7FyviH8oxkj16a18jsqKpvGrWI7GcdhNrSFjGR9Ib0+qdyR4Ve7EkWlPKQ48h1X1d9oEAYKcIbHXlz9NLtwXde/TS2234S5LrXBSmKl/n71C8niAAABGOXM50MNUmnJzrlwW7iXTsJ1PHB+fsV//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Island and Chill</div>
+                                                <div class="unlocked">10 Dec 2022</div>
+                                            </div>
+                                            <div class="description">Complete The Last Resort.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwcF/8QAMRAAAgEDAwIBCQkAAAAAAAAAAQIDBAURABIhBkEiBxMUFTEzUWGhIzJDVoGTscLS/8QAGQEAAQUAAAAAAAAAAAAAAAAAAAEDBAYH/8QAIREAAQQBBAMBAAAAAAAAAAAAAQACAxEhBAUSQTFhoRP/2gAMAwEAAhEDEQA/AOKTb7bZ7VJLa4KyarieV3mlkXGJGQABWAxhfrqj1tbfy7QfvT/71K8RvJZenhGjORSSEhRn8eTVvSFzuVkuZakt/pyTLsmpJYC6zKDkAjGeCAcjuNQFvHG4nSCy63Y5EeHH3Qwjr7FS2VKEVthtgqKmAVBpxPUb4VJ8Ifx8EjnHwPOgQbfcrPdZIrXBRzUkSSo8MsjZzIqEEMxGMN9NAXo3SuutTVXSKpNbM5kl85GwOT8scDsNFWeN47L1CJEZCaSMgMMZ+3j0JGxfnE1znEutt041lw9+Olo3kuVljtssYJY0BhGM5G6olP8AUacr1eJKCVoUlCebbBlTIZmJIHfPPOBkDHPtONY1abhQ+g2hzc4qSpoQAY5VkwxEzSA5RTkENjsRzpqunV9trpZGFbQRKWDooapO1g2VPu+2f4PbTrXgClV9ftckurMvAkEno4z9T1Z7y9bMIpJdwkfaJX5ZHBx8c5HHGSMfPjSf5Uldo7lLIPGtAICTnJ21MR/X7x0Jber7dRyIzV1BKN5kkBepG5mbLH3ff2d/aTpYvNyoWo7zKLlFVVNfkCKJZMKTMshOXUYAC47k8aHPBbSNBtkkWrEvAgAjo5z8wv/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Break the Bank</div>
+                                                <div class="unlocked">9 Dec 2022</div>
+                                            </div>
+                                            <div class="description">Complete Golden Handshake.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+17 others...</div>
                                         </div>
                                     </div>
                                 </div>
