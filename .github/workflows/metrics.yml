@@ -91,7 +91,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 16personalities
-        uses: lowlighter/metrics@latest
+        uses: JujuDel/metrics@fix_16personalities_plugin_getComputedStyle
         with:
           token: NOT_NEEDED
           filename: metrics/16personalities.svg
