@@ -63,27 +63,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 73.35199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">CMake</span>
-                                <div class="bar" style="width: 2.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 66.47999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">83%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 1.984%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 7.048000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 0.9279999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">CMake</span>
+                                <div class="bar" style="width: 3.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 0.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 0.7919999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 0.8960000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
