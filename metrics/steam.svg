@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="817" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="706" class="">
     <defs>
         <style/>
     </defs>
@@ -190,32 +190,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            23 / 320 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAgj/xAArEAACAgEDAwMDBAMAAAAAAAABAgMEEQUSIQAGMSJBUQcTFCQyYXEVwfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAIREAAQQBBAMBAAAAAAAAAAAAAQACAxExBEFhgSEy4VH/2gAMAwEAAhEDEQA/AI92d2rd7qsyVtLhh/TVjZnlkA2xqFzz/JPAH+unft/6Y11Fe1q7NZRXVpUgRUr4B5Uu3qf3B2gZ6Odowx6F2fRr2GSrNZjjhubCP1UYMk6sre6/bdcn5Kj26p9K9pd90WaSJY1XKQmLesi44UHkDjHx1btU1sZkfdGwK43vtaRwblQLufsvTPyrU2kyiqrOzRRSqrQYzwoYepPj1Z6W+8e1rfa9mOvqCQstqqLVaeMemVGXOR/IPBHt/RB66G1vSe3WRZLCwCTH3JEroYdnHIZhgEY9uepxYi/z/wBM7kInW7cqJLWqxvjNNAyWGYt5CfbjbB+dy+4AbdUx0bXsuhQN8730iSDJCH6Reh1Ts+nS01zNdggWR0mJ3V1hjkZ4gT5V9xZTnj9p8DrHa+s2ZBWijlYxVeXVeCyexPvgcA/Hv56RNL1eahWkiglhaCeMLLDKcqfTjI5ypxkZHkHBz0Rva3St3Kl0L+NPDFGkqod33mXI35HGSuAc4zjnz1L4LjMLvW7B/D9TZOAqT9Udbgp6alKvYEs9uMTTHyYVI5Uf3/3v0I1cR9tdj3dK1WVaupy1nkVa7EvbWwkbpExH7VTbuYnGeAPJ6WqPcemUtU1PU3iF6zbilSCN8r+OzkDfuPG4JuAxuxu48dBNZ1qbU4USxJCkMERSKGM+lfTjJycscADJ8AYGOlHpyGNhGMk8/MIknB8r/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Veni, vidi, vici</div>
-                                                <div class="unlocked">26 Feb 2023</div>
-                                            </div>
-                                            <div class="description">Win a regular game with a Domination victory on any difficulty with any leader</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQL/xAAoEAACAgEDAgUFAQAAAAAAAAABAgMEEQUGIQASEyIxQVEHFDJhcYH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAAD/8QAIREAAgICAQUBAQAAAAAAAAAAAQIDEQAEEiFRgbHxIjH/2gAMAwEAAhEDEQA/AI3tTbFzcsk8OmwxH7WqbM8jgdqKF4H9Y8Afv46d6/0x0yggXcmrv9/jL09MgWTwj8NI3BP8A/3rR2677X2hXdJIa1toESxHwRZIZ5IpAfdFEsTftioP49NumaLDX2f93YEs1+ch1L5VlYnBB+RjzZ98+vp1XDMhHN/4TQA95TBroesmTDV9iaV4THRtRnFgAlYNRgRRIfgOnAP+Hpb3bti1tqWCK8kLR26i2608Y8ssbJnj9gnBHt/CD1aNc0Ovc2VNZjWSK/CWZu0FzIRwFA9hyGJ5xj26Sawk3B9Nr8D2UvXKgmrVY3wDUUOk7Pn1CGONyD89yj1ADPsRj9RigDxN+8djWQC48Cp2IdW2bXo6efuLcdUPKJ2PfVSGORmiBP5KxYspzwB2nkDrT0Heeow7VWhXsWpSitHDN4odY1x5R2EHBX2Gf2P3ONO1SSnUlgjeF69iIJLDLyp8uMjnKnGRke3Bz13rupR3rMNymwp2FrpDKqOQZWQEd/cvBJHaDnHpk9c4o1Q8JV5Ldg9j4+YQbKqKcXlC1zeeoHactO1YtRsyCOWx4oRXXnuAQDksCRjPPv6YAlqJdtbHvadq7rU1Ses8ypXfL20spG6wsR+KxlAWOeeAPU9KO2dWq6TYtXtQ7dStS1JK8COxzA74Bk7m4BC9wGAfyyPTobVtXl1CvHHK8McFeLw4YYz5VAXtBOTljgAZPsMDHRLGrvxiWluye58/M0+yrdEFZ//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Rome If You Want To</div>
-                                                <div class="unlocked">26 Feb 2023</div>
-                                            </div>
-                                            <div class="description">Win a regular game as Trajan</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+21 others...</div>
+                                            0 / 320 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
